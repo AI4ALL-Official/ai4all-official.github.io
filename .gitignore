@@ -1,0 +1,4 @@
+# Ignore the dataset directory
+/dataset/
+# Ignore the cleaned dataset directory
+/cleaned/
