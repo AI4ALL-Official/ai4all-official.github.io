@@ -42,8 +42,7 @@ Enumerate the main results of this project in a list and describe them.
 (UPDATE IN README.md)
 Include any relevant data sources that were used in your project.
 
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+*Kaggle Datasets: [EV Charging Station Usage of California City](https://www.kaggle.com/datasets/venkatsairo4899/ev-charging-station-usage-of-california-city)*
 
 ## Technologies Used <!--- do not change this line -->
 
