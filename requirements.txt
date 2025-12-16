@@ -1,0 +1,25 @@
+#NEED TO INSTALL
+pandas
+scikit-learn
+joblib
+streamlit
+imbalanced-learn
+pandas
+numpy
+
+
+#If running this code on Google Colab, use the following code to access the dataset directly from Kaggle 
+#as we originally did in this project 
+
+#!pip install kaggle
+#from google.colab import files
+#files.upload()
+
+#!mkdir -p ~/.kaggle
+#!cp kaggle.json ~/.kaggle/
+#!chmod 600 ~/.kaggle/kaggle.json
+
+#!kaggle datasets download -d gauravtopre/credit-card-defaulter-prediction
+#!unzip -q credit-card-defaulter-prediction.zip
+#!ls
+
